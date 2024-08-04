@@ -12,8 +12,8 @@ This application processes receipt data and calculates points based on specific 
 
 ### __Clone the Repository__
 ```
-git clone <repository-url>
-cd receipt-processor
+git clone https://github.com/syed6268/Receiptprocessor.git
+cd fetchrewardtest
 ```
 ## __Running the Application__
 ### __Using Docker (Preferred Method)__
