@@ -8,6 +8,13 @@ This application processes receipt data and calculates points based on specific 
 - __Docker__
 - __Node.js and npm (if not using Docker)__
 
+## __Getting Started__
+
+### __Clone the Repository__
+```
+git clone <repository-url>
+cd receipt-processor
+```
 ## __Running the Application__
 ### __Using Docker (Preferred Method)__
 __1. Build the Docker image:__
